@@ -19,7 +19,7 @@
 <sonar.projectKey>AbdulAleemShaik01_userservice</sonar.projectKey>
   <sonar.organization>abdulaleemshaik01</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>c7d9f53a84575476605687a0a57650a004dfc0f8</sonar.login>
+  <sonar.login>d245f29785cf1bfe479d1ed8ee514460f8021f63</sonar.login>
 	</properties>
   
   <dependencyManagement>
